@@ -10,5 +10,8 @@ package com.mycompany.github;
  * @author kaiop
  */
 public class Principal {
+    public static void main(String[] args) {
+        
+    }
     
 }
